@@ -1,5 +1,6 @@
 .DS_Store
 .cache
-.package-lock.json
-npm_modules
+package-lock.json
+node_modules
 assets
+dist
