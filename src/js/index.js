@@ -1,0 +1,1 @@
+import {Tweenmax} from 'gsap/TweenMax';

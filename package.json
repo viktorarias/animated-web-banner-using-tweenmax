@@ -1,0 +1,23 @@
+{
+  "name": "animated-web-banner-using-tweenmax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorarias/animated-web-banner-using-tweenmax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorarias/animated-web-banner-using-tweenmax/issues"
+  },
+  "homepage": "https://github.com/viktorarias/animated-web-banner-using-tweenmax#readme",
+  "dependencies": {
+    "gsap": "^2.1.2"
+  }
+}

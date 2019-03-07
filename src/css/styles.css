@@ -1,0 +1,4 @@
+@import url("sprites.css");
+.sprites{
+    background: url('../images/sprites.png') no-repeat;
+  }
