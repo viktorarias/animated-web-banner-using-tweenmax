@@ -1,4 +1,17 @@
-@import url("sprites.css");
+
 .sprites{
     background: url('../images/sprites.png') no-repeat;
+    position: absolute;
+  }
+  .main-container{
+      width: 300px;
+      height: 600px;
+      position: relative;
+      margin: 0 auto;
+      border: 1px solid grey;
+      overflow: hidden;
+  }
+  .backgruound{
+      height: 354px;
+      overflow: hidden;
   }
